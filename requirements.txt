@@ -1,9 +1,9 @@
 
 Flask==3.1.1
 gunicorn==23.0.0
-tensorflow-cpu==2.16.1
-numpy==1.26.4
-pandas==1.5.3
+tensorflow
+numpy
+pandas
 scikit-learn
 opencv-python
 matplotlib

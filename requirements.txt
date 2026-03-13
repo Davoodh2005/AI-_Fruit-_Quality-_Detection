@@ -63,3 +63,5 @@ wheel==0.45.1
 wrapt==1.17.2
 scikit-learn
 opencv-python
+setuptools
+wheel

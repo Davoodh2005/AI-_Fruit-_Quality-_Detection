@@ -5,7 +5,7 @@ tensorflow==2.15.0
 numpy
 pandas
 scikit-learn
-opencv-python
+opencv-python-headless
 matplotlib
 pillow
 requests
